@@ -3,4 +3,4 @@
 Simple app meant to display the upcoming projects in the Udacity course.
 
 ##Screenshot:
-![](screenshot.png)
+![](screenshot.png =300x)
